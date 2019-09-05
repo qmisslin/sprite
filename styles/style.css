@@ -16,11 +16,11 @@ body * {
 body {
     background-color: #303030;
     overflow: hidden;
+    display: flex;
 }
 
 #canvas {
-    width: 90%;
-    height: 90%;
     background-color: #202020;
-    margin: 5%;
+    margin: 10px;
+    flex-grow: 1;
 }
