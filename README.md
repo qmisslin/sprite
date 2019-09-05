@@ -66,10 +66,10 @@ spritesheet.endLoading = function() {
 spritesheet.startLoading();
 
 ``` 
-##Contributing ?
+## Contributing ?
 I think it is always possible to progress in programming, so any help and advice to improve this template is welcome !
 
 __Issues__ : Found a problem when using this template ? Want to request a feature ? Open an issue !
 
-##License
+## License
 Copyright 2019 Misslin Quentin
