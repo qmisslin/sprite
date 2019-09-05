@@ -1,0 +1,26 @@
+* {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border-style: solid;
+    border-width: 0;
+    background-color: transparent;
+}
+
+body * {
+    width: auto;
+    height: auto;
+}
+
+body {
+    background-color: #303030;
+    overflow: hidden;
+}
+
+#canvas {
+    width: 90%;
+    height: 90%;
+    background-color: #202020;
+    margin: 5%;
+}
