@@ -1,4 +1,4 @@
-# Template HTML5 Canvas with Spritesheet
+# PixiJS Movie spritesheet importer for HTML5 canvas
 
 ![http://rebloggy.com/post/gif-zelda-animation-pixel-toon-link-sprite/42707730491](/readme/link.gif)
 
